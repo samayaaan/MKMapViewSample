@@ -19,7 +19,7 @@
 		46D9FDA81605748700819F12 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46D9FDA71605748700819F12 /* MapKit.framework */; };
 		46D9FDB316058DF100819F12 /* CustomAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 46D9FDB216058DF100819F12 /* CustomAnnotation.m */; };
 		46D9FDC21605D9B900819F12 /* CustomAnnotationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 46D9FDC11605D9B900819F12 /* CustomAnnotationView.m */; };
-		46D9FDD1160618C100819F12 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 46D9FDD0160618C100819F12 /* pin.png */; };
+		46D9FDD31606268D00819F12 /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 46D9FDD21606268D00819F12 /* pin.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,7 +42,7 @@
 		46D9FDB216058DF100819F12 /* CustomAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomAnnotation.m; sourceTree = "<group>"; };
 		46D9FDC01605D9B900819F12 /* CustomAnnotationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomAnnotationView.h; sourceTree = "<group>"; };
 		46D9FDC11605D9B900819F12 /* CustomAnnotationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomAnnotationView.m; sourceTree = "<group>"; };
-		46D9FDD0160618C100819F12 /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = SOURCE_ROOT; };
+		46D9FDD21606268D00819F12 /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pin.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +110,7 @@
 		46D9FD8F160570AB00819F12 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				46D9FDD0160618C100819F12 /* pin.png */,
+				46D9FDD21606268D00819F12 /* pin.png */,
 				46D9FD90160570AB00819F12 /* MKMapViewSample-Info.plist */,
 				46D9FD91160570AB00819F12 /* InfoPlist.strings */,
 				46D9FD94160570AB00819F12 /* main.m */,
@@ -172,7 +172,7 @@
 			files = (
 				46D9FD93160570AB00819F12 /* InfoPlist.strings in Resources */,
 				46D9FD9C160570AB00819F12 /* MainStoryboard.storyboard in Resources */,
-				46D9FDD1160618C100819F12 /* pin.png in Resources */,
+				46D9FDD31606268D00819F12 /* pin.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
